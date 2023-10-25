@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.fnt p{
+    font-size: 14px;
+    justify-content: center;
+    padding-top: 13px;
+    }
+    .fnt{
+        height: 5vh;
+    }
+    .clr{
+      font-weight: 500;
+    }
+    .ser h1{
+color: black;
+margin-right: 600px;
+margin-bottom: 25px;
+color: rgb(27, 27, 98);
+font-size: 38px;
+    }
+    .ser p{
+        color: black;
+        margin-right: 600px;
+        margin-bottom: 150px;   
+        font-size: 20px;
+        text-align: left;
+    }
+    .btn1{
+        color: rgb(18, 18, 103);
+        margin-right: 450px;
+        margin-bottom: 50px;
+    }
+    .txt2 h2{
+font-size: 30px;
+text-align: center;
+color: rgb(18, 18, 103);
+margin-top: 30px;
+    }
+.txt2 p{
+    text-align: left;
+    padding: 5px;
+}
+.bg1{
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("ser.jpeg");
+    background-position: cover;
+    background-attachment: fixed;
+}
+.bg1 h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.bg1 span{
+    color: yellow;
+}
+.bg1 p{
+    text-align: center;
+    color: white;
+}
+.prcs p{
+    color: black;
+    text-align: left;
+}
+.prcs{
+    margin: 20px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.quote h1{
+    text-align: center;
+    color: rgb(27, 27, 98);
+}
+.quote p{
+    text-align: center;
+}
+form .inputbox{
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+form h1{
+    font-size: 20px;
+    color: rgb(12, 12, 99);
+}
+.bg2{
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("ser.jpeg");
+    background-position: cover;
+    background-attachment: fixed;  
+}
+.ach h1{
+text-align: center;
+color: white;
+margin-top: 20px;
+margin-bottom: 20px;
+padding: 20px;
+}
+.ach{
+    color: white;
+    margin: auto;
+}
+.row1{
+    justify-content: space-between;
+    align-items: center;
+}
+.ppf{
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+.ppf2{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+.ppf3{
+    margin-left: 105px;
+    margin-bottom: 30px;
+}
+.prcs h1{
+    color: rgb(24, 24, 106);
+    text-align: center;
+}
+.prcs p{
+    text-align: center;
+}
+.prcs1{
+    color: rgb(24, 24, 106);
+    justify-content: space-between;
+    padding: 50px;
+}
+.prcs1 h1{
+    font-size: 20px;
+}
+.pf1{
+    margin-left: 120px;
+    padding: 50px;
+}
+.pf2{
+    margin-left: 100px;
+    padding: 50px;
+}
+.pf4{
+margin-left: 40px;
+padding: 50px;
+margin-top: 10px;
+}
+.container span{
+    color: rgb(136, 136, 23);
+    font-weight: 500;
+}
+.clr1{
+    background-color: rgb(20, 89, 169);
+}
+.siz{
+    width:130%;
+    margin-right: 150px;
+    }
+    .img{
+        margin-left: 150px;
+    }
+    .test h1{
+        text-align: center;
+        color: rgb(24, 24, 106);
+    }
+    .test p{
+        text-align: center;
+    }
+    .ftpnl1 p{
+    text-align:justify;
+    margin-right: 20px;
+    }
+    .footpanel{
+padding: 30px;
+background-color: rgb(2, 20, 57);
+color: white;
+    }
+    .ftpnl2{
+        margin-left: 30px;
+    }
+    .ftpnl{
+        padding-bottom: 50px;
+    }
+    .ftpnl4{
+        margin-bottom: 50px;
+    }
+    .footpanel h5{
+        color: rgb(240, 206, 36);
+    }
+    .prcs p{
+        padding-top: 20px;
+    }
+    .quote p{
+        padding: 20px;
+    }
+    .test{
+        padding: 50px;
+    }
